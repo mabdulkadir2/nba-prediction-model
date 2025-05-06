@@ -3,10 +3,9 @@
 This repository contains a machine learning model built to predict the outcome of NBA games. The model is designed as a binary classification task, where:
 
 1 = Win
-
 0 = Loss
 
-# Model Overview
+## Model Overview
 Model Type: Random Forest Classifier
 
 Target Variable: Game Outcome (Win = 1, Loss = 0)
@@ -15,7 +14,7 @@ Evaluation Metrics: Accuracy, AUC-ROC Curve, Precision, Recall, F1-Score
 
 Validation Method: K-Fold Cross Validation
 
-# Techniques Used
+## Techniques Used
 Binary Classification using RandomForestClassifier from sklearn.ensemble
 
 K-Fold Cross Validation for robust model evaluation
