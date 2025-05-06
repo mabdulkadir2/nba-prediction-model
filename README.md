@@ -1,1 +1,1 @@
-# nba-prediction-model
+# NBA Game Prediction Model
