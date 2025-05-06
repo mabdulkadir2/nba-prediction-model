@@ -1,1 +1,1 @@
-# NBA Game Prediction Model
+# NBA Game Outcome Prediction Model
