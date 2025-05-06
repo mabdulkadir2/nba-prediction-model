@@ -3,6 +3,7 @@
 This repository contains a machine learning model built to predict the outcome of NBA games. The model is designed as a binary classification task, where:
 
 1 = Win
+
 0 = Loss
 
 ## Model Overview
